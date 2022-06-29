@@ -3,9 +3,6 @@
 쇼핑몰 웹 애플리케이션
 
 ---
-## TDD (Test Driven Development)
-
-테스트 코드 작성 -> 실제 코드 작성 -> 테스트 성공 순으로 구현
 
 ## Code Convention
 
